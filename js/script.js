@@ -9,9 +9,9 @@ let prcTot = numKm * prcKm;
 console.log(prcTot);
 
 if(eta < 18){
-  prcDis = prcTot / 100 * 20;
+  prcDis = prcTot - (prcTot / 100 * 20);
 }else if(eta > 65){
-  prcDis = prcTot / 100 * 40;
+  prcDis = prcTot - (prcTot / 100 * 40);
 }else{
   prcDis = prcTot
 }
