@@ -13,4 +13,5 @@ L’output del prezzo finale va messo fuori in forma umana (con massimo due deci
 3. salvo variabile prezzo (0.21 € al km)
 4. calcolo prezzo totale del viaggio (numKm * prcKm)
 5. applico eventuale sconto
-6. stampo in pagina prezzo finale
+6. rendo il prezzo finale decimale
+7. stampo in pagina prezzo finale
