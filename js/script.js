@@ -1,6 +1,6 @@
 const numKm = prompt('Scrivi km da percorrere');
 
-const eta = prompt('Scrivi la tua età');100
+const eta = prompt('Scrivi la tua età');
 
 const prcKm = 0.21;
 
